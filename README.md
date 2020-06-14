@@ -1,5 +1,5 @@
 ## Tetris 
-Tetris game built with React.js
+Tetris game built as the second capstone project of the coding bootcamp.
 
 ## Built with
 React.js
@@ -10,3 +10,6 @@ React.js
 - Install the npm modules **npm install**
 - Run the program **npm start**
 - Navigate to localhost:3000
+
+## Link to the deployed app
+[Tetris - Fran13Dev] (https://fran13dev-tetris.herokuapp.com/)
