@@ -11,5 +11,5 @@ React.js
 - Run the program **npm start**
 - Navigate to localhost:3000
 
-## Link to the deployed app
-[Tetris - Fran13Dev] (https://fran13dev-tetris.herokuapp.com/)
+## Link to deployed app
+[Tetris - Fran13Dev](https://fran13dev-tetris.herokuapp.com)
